@@ -3,7 +3,7 @@ info:
   title: Simple Inventory API
   description: This is a simple API -edited KJ 1248
   contact:
-    email: you@your-company.com
+    email: you@your-company.BE
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
