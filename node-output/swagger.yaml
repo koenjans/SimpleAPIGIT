@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: Simple Inventory API
+  title: Simple Inventory API - change
   description: This is a simple API -edited KJ 1248
   contact:
     email: you@your-company.com
